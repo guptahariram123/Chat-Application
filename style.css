@@ -1,0 +1,41 @@
+.background{
+    /* background: linear-gradient(to bottom, blue,navy); */
+    background: linear-gradient(to right, rgb(25, 55, 12),rgb(126, 5, 5));
+
+}
+.footer-background{
+    background: linear-gradient(to bottom, rgb(39, 39, 227),rgb(36, 36, 59));
+    
+}
+.pbackground{
+    
+    background: linear-gradient(to bottom,rgb(19, 172, 14),rgb(48, 241, 228));
+    padding: 1%;
+    color: white;
+    font-size: 20px;
+    width: 75%;
+}
+.mid-section{
+    height: 630px;
+    overflow: auto;
+    width: 100vw;
+}
+.mid-para{
+    text-align: center;
+    width: 50%;
+    margin-left: 30%;
+    clear: both;
+    background-color: rgb(249, 249, 249);
+    border-radius: 40px 40px;
+    padding: 5px 0;
+    border: 3px outset rgb(217, 118, 183);
+    
+}
+.first{
+    height: 92%;
+    overflow: auto;
+}
+.second{
+    height: 8%;
+
+}
